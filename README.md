@@ -10,6 +10,10 @@ Para rodar o arquivo no VS Code: Baixe a extensão "rust-analyzer" e em seu comp
 
 
 Após isso acesse no terminal a pasta dos arquivos e compile todos os arquivos com o comando:
-```> cargo build```
+```
+> cargo build
+```
 Para executar basta inserir o comando para executar o código:
-```> cargo run``` 
+```
+> cargo run
+``` 
